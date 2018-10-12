@@ -10,7 +10,7 @@ This app can recognize a face of any url that has a face in it. (Human faces alt
 
 - The app now can recongize a face of a human and detect it.
 - The app now comes with a login page and can be registered too.
-  ** So far only valid url entries and usernames are founded in each profile. **
+  **So far only valid url entries and usernames are founded in each profile.**
 - Bugs fixes and more!
 
-** Any bugs or tweaks in this update be adjusted when a new update comes out. **
+**Any bugs or tweaks in this update be adjusted when a new update comes out.**
