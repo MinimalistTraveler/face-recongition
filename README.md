@@ -13,4 +13,4 @@ This app can recognize a face of any url that has a face in it. (Human faces alt
   **So far only valid url entries and usernames are founded in each profile.**
 - Bugs fixes and more!
 
-**Any bugs or tweaks in this update be adjusted when a new update comes out.**
+**Any bugs or errors in this update be adjusted when a new update comes out.**
