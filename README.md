@@ -1,4 +1,4 @@
-# Face recognition app v1.0
+# Face recognition app v1.0 Server
 
 ## What does it do?
 
